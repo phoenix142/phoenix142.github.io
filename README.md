@@ -1,4 +1,4 @@
-# 
+# Правила гильдии Феникс
 English text at the bottom of the page
 
 Полезные ссылки.
