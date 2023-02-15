@@ -183,10 +183,10 @@
 <ol>
 <li>GW is a collective gaming event in which a lot depends on the interaction between the players. Therefore, I entered the game during the WG - IMMEDIATELY look into the chat and the WG map, others may be waiting for your actions.</li>
 <li>Appoints champions and directs the battle Guild Master or appointed General</li>
-<li>
-<ul>GW orders
+<li>GW orders
+<ul>
 <li>Instructions are given in the guild chat. Directions in PM take precedence over chat. Obligatory destinations are indicated on the map</li>
-</li> Do not attack without explicit permission in the chat!</li>
+<li> Do not attack without explicit permission in the chat!</li>
 <li>If one target is indicated, we attack it and wait for the next one if there are no other instructions.</li>
 <li>if two targets are specified, we attack both targets, regardless of the result of the first attack.</li>
 <li>It is FORBIDDEN to finish off on your own after an unsuccessful attack, unless the leader of the battle EXPLICITLY indicates otherwise!</li>
