@@ -68,7 +68,7 @@
 
 <h2>Столкновение Миров (СМ)</h2>
 <p>
-<p>Основное отличия от ВГ:</p>
+<p>Основные отличия от ВГ:</p>
 <ul>
 <li>участвуют абсолютно все члены гильдии, выставившие команды на СМ</li>
 <li>бой начинается в 06-15мск и идет 3е суток без перерыва до окончания 3х суток (до 05мск)</li>
@@ -149,88 +149,103 @@
 <p>Donations are welcome in any size, but not required. When considering any controversial issues, the main criterion is the fulfillment of the norms for the asset and titanite</p>
 
 <h2>Useful links</h2>
-<p><ol>
-<li>gifts and adventure schemes https://www.solfors.com
-
-<li>more adventure schemes http://morevokne.ru/?p=7052
-
-<li>more adventure maps https://hero-wars.fandom.com/wiki/Adventures
-</ol></p>
+<p>
+<ol>
+<li>gifts and adventure schemes https://www.solfors.com</li>
+<li>more adventure schemes http://morevokne.ru/?p=7052</li>
+<li>more adventure maps https://hero-wars.fandom.com/wiki/Adventures</li>
+</ol>
+</p>
 
 <h2>Guild Daily Quests</h2>
-<p><ol>
-<li>In the Dungeon we reach the second save point
-<li>Recruiting 1250+ assets
-<li>The Guild War awaits the champions, and the Clash of the Worlds awaits everyone
-</ol></p>
-<p>1+2+3=0 per week - exclusion from the guild</p>
+<p>
+<ol>
+<li>In the Dungeon we reach the second save point</li>
+<li>Recruiting 1250+ assets</li>
+<li>The Guild War awaits the champions, and the Clash of the Worlds awaits everyone</li>
+</ol>
+<p><strong>1+2+3=0 per week - exclusion from the guild</strong></p>
+</p>
 
 <h2>Good manners in the Guild</h2>
-<p><ol>
-<li>Discussion of political, religious issues, insults or threats to any address in the guild chat or server chat is FORBIDDEN! Violators are expelled from the guild
-<li>Mandatory Daily Chat Reading
-<li>In the Arena and the Grand Arena, we try not to attack the guildmates. We resolve conflicts on this basis in a personal
-<li>Private messages must be open to guild members
-<li>The main language of communication is Russian. Or https://translate.google.com/
-</ol></p>
+<p>
+<ol>
+<li>Discussion of political, religious issues, insults or threats to any address in the guild chat or server chat is FORBIDDEN! Violators are expelled from the guild</li>
+<li>Mandatory Daily Chat Reading</li>
+<li>In the Arena and the Grand Arena, we try not to attack the guildmates. We resolve conflicts on this basis in a personal</li>
+<li>Private messages must be open to guild members</li>
+<li>The main language of communication is Russian. Or https://translate.google.com/</li>
+</ol>
+</p>
 
-<h2>Guild War (WG)</h2>
-<p><ol>
-<li>GW is a collective gaming event in which a lot depends on the interaction between the players. Therefore, I entered the game during the WG - IMMEDIATELY look into the chat and the WG map, others may be waiting for your actions.
-<li>Appoints champions and directs the battle Guild Master or appointed General
-<li>Instructions are given in the guild chat. Directions in PM take precedence over chat. Obligatory destinations are indicated on the map. Do not attack without explicit permission in the chat!
-<p>If one target is indicated, we attack it and wait for the next one if there are no other instructions.
-<p>If two targets are specified, we attack both targets, regardless of the result of the first attack.
-<p>It is FORBIDDEN to finish off on your own after an unsuccessful attack, unless the leader of the battle EXPLICITLY indicates otherwise!
-<p>Questions and wishes - in a personal to the leader of the battle Keep in mind that in the general chat your message may be shifted out of sight and unnoticed by the leader.
+<h2>Guild War (GW)</h2>
+<p>
+<ol>
+<li>GW is a collective gaming event in which a lot depends on the interaction between the players. Therefore, I entered the game during the WG - IMMEDIATELY look into the chat and the WG map, others may be waiting for your actions.</li>
+<li>Appoints champions and directs the battle Guild Master or appointed General</li>
+<li>
+<ul>GW orders
+<li>Instructions are given in the guild chat. Directions in PM take precedence over chat. Obligatory destinations are indicated on the map</li>
+</li> Do not attack without explicit permission in the chat!</li>
+<li>If one target is indicated, we attack it and wait for the next one if there are no other instructions.</li>
+<li>if two targets are specified, we attack both targets, regardless of the result of the first attack.</li>
+<li>It is FORBIDDEN to finish off on your own after an unsuccessful attack, unless the leader of the battle EXPLICITLY indicates otherwise!</li>
+<li>Questions and wishes - in a personal to the leader of the battle Keep in mind that in the general chat your message may be shifted out of sight and unnoticed by the leader.</li>
+</ul></li>
 <li>If there is no explicit prohibition on this in the chat, then in case of URGENT need, an independent choice of the attack target is allowed in the following order:
 <ul>
 <li>already attacked positions.
 <li>positions where you are sure of victory or you can deal maximum damage.
 <li>the number of captured positions in the fortification - move to where more are captured
-</ul>
-<li>An attack of one's own will be allowed if any plan is pointless. In this case, try to score maximum points based on your strengths and the strengths of the enemy. The choice of the target of the attack - see item 4
-<li>If you plan to miss one or more days - inform the Guild Master or General for a replacement. When you return, please let us know for a return replacement. Skipping a battle, especially a transitional battle, is unacceptable!
-<li>Sanctions for non-performance - deprivation of gifts, withdrawal from the ranks of fighters or exclusion from the Guild.
-</ol></p>
+</ul></li>
+<li>An attack of one's own will be allowed if any plan is pointless. In this case, try to score maximum points based on your strengths and the strengths of the enemy. The choice of the target of the attack - see previous item</li>
+<li>If you plan to miss one or more days - inform the Guild Master or General for a replacement. When you return, please let us know for a return replacement. Skipping a battle, especially a transitional battle, is unacceptable!</li>
+<li>Sanctions for non-performance - deprivation of gifts, withdrawal from the ranks of fighters or exclusion from the Guild.</li>
+</ol>
+</p>
 
-<h2>Collision of Worlds (CM)</h2>
-<p>The main differences from VG:
+<h2>Collision of Worlds (CoW)</h2>
+<p>
+<p>The main differences from GW:</p>
 <ul>
-<li>absolutely all members of the guild who put up teams on the SM participate
-<li>the battle starts at 06-15 Moscow time and goes on for 3 days without a break until the end of 3 days (until 05 Moscow time)
-<li>each hero and each titan can only be used once
-<li>there are fortifications with power-ups that depend on the role of the heroes or the elements of the titans
+<li>absolutely all members of the guild who put up teams on the SM participate</li>
+<li>the battle starts at 06-15 Moscow time and goes on for 3 days without a break until the end of 3 days (until 05 Moscow time)</li>
+<li>each hero and each titan can only be used once</li>
+<li>there are fortifications with power-ups that depend on the role of the heroes or the elements of the titans</li>
 </ul>
 <p>Without explicit permission in the chat, it is FORBIDDEN to attack even on set targets. Attacks at your own discretion are FORBIDDEN until explicit permission to do so in the chat</p>
+</p>
+
 <h2>Asgard</h2>
-<p><ol>
-<li>The days of the week are determined by the time in the game. Game time is UTC-2 (2 hours after GMT)
+<p>
+<ol>
+<li>The days of the week are determined by the time in the game. Game time is UTC-2 (2 hours after GMT)</li>
 <li>First phase (Mon-Thu).
-<p>We attack minions and minibosses. The goal is to win, gain maximum emblems and spirit. Time of blows - any.
-<p>For minions, we try to exceed the power of their packs, for which you can strengthen your weak packs at the expense of strong ones. By minibosses, we look at their features and buy the necessary power-ups. If the level of the boss is comparable to the level of your own top packs, then it is recommended to first defeat all the minions, buy power-ups and only then attack the minibosses.
+<p>We attack minions and minibosses. The goal is to win, gain maximum emblems and spirit. Time of blows - any.</p>
+<p>For minions, we try to exceed the power of their packs, for which you can strengthen your weak packs at the expense of strong ones. By minibosses, we look at their features and buy the necessary power-ups. If the level of the boss is comparable to the level of your own top packs, then it is recommended to first defeat all the minions, buy power-ups and only then attack the minibosses.</p></li>
 <li>Attack on the boss (Fri-Sun).
 <p>The goal is to take down as many bosses as possible TOGETHER and deal maximum damage to EVERYONE.
-5 attempts are given for the attack, the heroes cannot be repeated, i.e. 25 heroes required. The pet can be used repeatedly. Before the attack, we form five packs of heroes and evaluate their power. It is not necessary to align the packs according to the power level
-<p>In general, tasks are distributed by day in the following way:
+5 attempts are given for the attack, the heroes cannot be repeated, i.e. 25 heroes required. The pet can be used repeatedly. Before the attack, we form five packs of heroes and evaluate their power. It is not necessary to align the packs according to the power level</p>
+<p>In general, tasks are distributed by day in the following way:</p>
 <ul>
 <li>Friday - DAY OF THE DISABLED. Weak heroes can gain some damage and be useful. On stronger bosses, they become useless. So USE FRIDAY for your weak heroes! We attack starting from the WEAKEST pack (not at all, but the weakest of the top 25!), observe the restrictions on the amount of damage, and follow other instructions.
-<p> don't know how, you don't want to, you don't know what instructions are given - SKIP FRIDAY!
-<li>Saturday - pack strength may be limited
-<li>Sunday - no restrictions
+<p>don't know how, you don't want to, you don't know what instructions are given - SKIP FRIDAY!</p></li>
+<li>Saturday - pack strength may be limited</li>
+<li>Sunday - no restrictions</li>
 </ul>
-<p>Specific restrictions and guidelines for each day are announced in the chat
-<p>Before the attack, do not forget to spend the received emblems on power-ups. Whether to buy amplifications for gold - we decide on our own.
-<p>We add a pet to the pack at our discretion
+<p>Specific restrictions and guidelines for each day are announced in the chat</p>
+<p>Before the attack, do not forget to spend the received emblems on power-ups. Whether to buy amplifications for gold - we decide on our own. We add a pet to the pack at our discretion</p></li>
 
 <li>Sanctions for violating the schedule of attacks and restrictions:
 <ul>
-<li>deprivation of gifts from the Master
-<li>removal from the war of guilds for a week
-<li>expulsion from the guild
-<li>expulsion from the guild with blacklisting
+<li>deprivation of gifts from the Master</li>
+<li>removal from the war of guilds for a week</li>
+<li>expulsion from the guild</li>
+<li>expulsion from the guild with blacklisting</li>
 </ul>
-</ol></p>
+</li>
+</ol>
+</p>
 
 <h2>Adventures</h2>
 <p><ol>
@@ -243,13 +258,13 @@
 </ol></p>
 
 <h2>Gifts from the Guild Master</h2>
-
-<p>Distribution of gifts is made twice a week - on Saturday morning for Monday-Friday and on Monday morning for Saturday and Sunday
-<p>Gifts accumulated over the week are distributed according to the scheme - a flag for activity or titanite = one gift See your progress here - Gifts-View
-<p>Penalties:
+<p>
+<p>Distribution of gifts is made twice a week - on Saturday morning for Monday-Friday and on Monday morning for Saturday and Sunday</p>
+<p>Gifts accumulated over the week are distributed according to the scheme - a flag for activity or titanite = one gift See your progress here - Gifts-View</p>
+<p>Penalties:</p>
 <ul>
-<li>non-fulfillment of the daily norm - minus 1 gift for each day of non-fulfillment
-<li>skipping GW, violation of the rules for attacking the boss in Asgard - gifts are not issued
+<li>non-fulfillment of the daily norm - minus 1 gift for each day of non-fulfillment</li>
+<li>skipping GW, violation of the rules for attacking the boss in Asgard - gifts are not issued</li>
 </ul>
-<p>"Penalty" and undistributed gifts are distributed at the discretion of the Guild Master
+<p>"Penalty" and undistributed gifts are distributed at the discretion of the Guild Master</p>
 </p>
