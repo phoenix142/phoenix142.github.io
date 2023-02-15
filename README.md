@@ -142,7 +142,7 @@
 
 <h2>Guild War (WG)</h2>
 <p><ol>
-<li>VG is a collective gaming event in which a lot depends on the interaction between the players. Therefore, I entered the game during the WG - IMMEDIATELY look into the chat and the WG map, others may be waiting for your actions.
+<li>GW is a collective gaming event in which a lot depends on the interaction between the players. Therefore, I entered the game during the WG - IMMEDIATELY look into the chat and the WG map, others may be waiting for your actions.
 <li>Appoints champions and directs the battle Guild Master or appointed General
 <li>Instructions are given in the guild chat. Directions in PM take precedence over chat. Obligatory destinations are indicated on the map. Do not attack without explicit permission in the chat!
 <p>If one target is indicated, we attack it and wait for the next one if there are no other instructions.
