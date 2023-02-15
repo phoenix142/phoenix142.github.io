@@ -248,14 +248,16 @@
 </p>
 
 <h2>Adventures</h2>
-<p><ol>
-<li>The goal of the adventure is to open 4 chests. After that, until the end of the game day, you can use the raid on this adventure.
-<li>Use the adventure chat. Please note that the links in the adventure chat do not work.
-<li>Senior one who went first. It determines who goes where when. It is recommended to do this explicitly in the adventure chat
-<li>Do you have another goal? Check the Closed group box. There you can invite personally or not invite anyone.
-<li>It is FORBIDDEN to run to the boss along the path cleared by others!
-<li>Lost and spent all the moves? Exit the adventure through the Journal. Earnings will be sent to the mail
-</ol></p>
+<p>
+<ol>
+<li>The goal of the adventure is to open 4 chests. After that, until the end of the game day, you can use the raid on this adventure.</li>
+<li>Use the adventure chat. Please note that the links in the adventure chat do not work.</li>
+<li>Senior one who went first. It determines who goes where when. It is recommended to do this explicitly in the adventure chat</li>
+<li>Do you have another goal? Check the Closed group box. There you can invite personally or not invite anyone.</li>
+<li>It is FORBIDDEN to run to the boss along the path cleared by others!</li>
+<li>Lost and spent all the moves? Exit the adventure through the Journal. Earnings will be sent to the mail</li>
+</ol>
+</p>
 
 <h2>Gifts from the Guild Master</h2>
 <p>
