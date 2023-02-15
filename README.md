@@ -169,3 +169,53 @@
 <li>there are fortifications with power-ups that depend on the role of the heroes or the elements of the titans
 </ul>
 <p>Without explicit permission in the chat, it is FORBIDDEN to attack even on set targets. Attacks at your own discretion are FORBIDDEN until explicit permission to do so in the chat</p>
+<h2>Asgard</h2>
+<p><ol>
+<li>The days of the week are determined by the time in the game. Game time is UTC-2 (2 hours after GMT)
+<li>First phase (Mon-Thu).
+<p>We attack minions and minibosses. The goal is to win, gain maximum emblems and spirit. Time of blows - any.
+<p>For minions, we try to exceed the power of their packs, for which you can strengthen your weak packs at the expense of strong ones. By minibosses, we look at their features and buy the necessary power-ups. If the level of the boss is comparable to the level of your own top packs, then it is recommended to first defeat all the minions, buy power-ups and only then attack the minibosses.
+<li>Attack on the boss (Fri-Sun).
+<p>The goal is to take down as many bosses as possible TOGETHER and deal maximum damage to EVERYONE.
+5 attempts are given for the attack, the heroes cannot be repeated, i.e. 25 heroes required. The pet can be used repeatedly. Before the attack, we form five packs of heroes and evaluate their power. It is not necessary to align the packs according to the power level
+<p>In general, tasks are distributed by day in the following way:
+<ul>
+<li>Friday - DAY OF THE DISABLED. Weak heroes can gain some damage and be useful. On stronger bosses, they become useless. So USE FRIDAY for your weak heroes! We attack starting from the WEAKEST pack (not at all, but the weakest of the top 25!), observe the restrictions on the amount of damage, and follow other instructions.
+<p> don't know how, you don't want to, you don't know what instructions are given - SKIP FRIDAY!
+<li>Saturday - pack strength may be limited
+<li>Sunday - no restrictions
+</ul>
+<p>Specific restrictions and guidelines for each day are announced in the chat
+<p>Before the attack, do not forget to spend the received emblems on power-ups. Whether to buy amplifications for gold - we decide on our own.
+<p>We add a pet to the pack at our discretion
+
+<li>Sanctions for violating the schedule of attacks and restrictions:
+<ul>
+<li>deprivation of gifts from the Master
+<li>removal from the war of guilds for a week
+<li>expulsion from the guild
+<li>expulsion from the guild with blacklisting
+</ul>
+</ol></p>
+
+<h2>Adventures</h2>
+<p><ol>
+<li>The goal of the adventure is to open 4 chests. After that, until the end of the game day, you can use the raid on this adventure.
+<li>Use the adventure chat. Please note that the links in the adventure chat do not work.
+<li>Senior one who went first. It determines who goes where when. It is recommended to do this explicitly in the adventure chat
+<li>Do you have another goal? Check the Closed group box. There you can invite personally or not invite anyone.
+<li>It is FORBIDDEN to run to the boss along the path cleared by others!
+<li>Lost and spent all the moves? Exit the adventure through the Journal. Earnings will be sent to the mail
+</ol></p>
+
+<h2>Gifts from the Guild Master</h2>
+
+<p>Distribution of gifts is made twice a week - on Saturday morning for Monday-Friday and on Monday morning for Saturday and Sunday
+<p>Gifts accumulated over the week are distributed according to the scheme - a flag for activity or titanite = one gift See your progress here - Gifts-View
+<p>Penalties:
+<ul>
+<li>non-fulfillment of the daily norm - minus 1 gift for each day of non-fulfillment
+<li>skipping GW, violation of the rules for attacking the boss in Asgard - gifts are not issued
+</ul>
+<p>"Penalty" and undistributed gifts are distributed at the discretion of the Guild Master
+</p>
