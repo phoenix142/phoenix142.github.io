@@ -194,9 +194,9 @@
 </ul></li>
 <li>If there is no explicit prohibition on this in the chat, then in case of URGENT need, an independent choice of the attack target is allowed in the following order:
 <ul>
-<li>already attacked positions.
-<li>positions where you are sure of victory or you can deal maximum damage.
-<li>the number of captured positions in the fortification - move to where more are captured
+<li>already attacked positions.</li>
+<li>positions where you are sure of victory or you can deal maximum damage.</li>
+<li>the number of captured positions in the fortification - move to where more are captured</li>
 </ul></li>
 <li>An attack of one's own will be allowed if any plan is pointless. In this case, try to score maximum points based on your strengths and the strengths of the enemy. The choice of the target of the attack - see previous item</li>
 <li>If you plan to miss one or more days - inform the Guild Master or General for a replacement. When you return, please let us know for a return replacement. Skipping a battle, especially a transitional battle, is unacceptable!</li>
