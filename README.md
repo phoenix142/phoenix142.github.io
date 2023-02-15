@@ -1,7 +1,7 @@
 # Правила гильдии Феникс
 English text at the bottom of the page
 
-<h2>Полезные ссылки<.h2>
+<h2>Полезные ссылки</h2>
   1. подарки и схемы приключений <a href=https://www.solfors.com>https://www.solfors.com</a>
 2. еще схемы приключений http://morevokne.ru/?p=7052 
 3. еще схемы приключений (англ) https://hero-wars.fandom.com/wiki/Adventures
