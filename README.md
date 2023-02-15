@@ -108,94 +108,64 @@
 </ul>
 <p>"Штрафные" и нераспределенные подарки раздаются по усмотрению Мастера Гильдии
 <p>-------------------------------------------------------------------------</p>
-Феникс Guild's current goal is to be in the Guild War Silver League or higher.
-This level can be achieved if ALL members of the guild perform daily
-daily tasks, the norms of which are indicated in the chat header. The rules are subject to change.
-Through a fraction, the minimum weekly norms are indicated, the failure of which will be the basis for exclusion
-Donations are welcome in any size, but not required.
-When considering any controversial issues, the main criterion is the fulfillment of the norms for activity and titanite
+<h1>Phoenix Guild Rules</h1>
 
-Guild daily quests:
-1. In the Dungeon we reach the second save point
-2. Recruiting 1250+ activities
-3. The Guild War awaits the champions, and the Clash of the Worlds awaits everyone.
-1+2+3=0 per week - exclusion from the guild
+<p>Phoenix Guild's current goal is to be in the Guild War Silver League or higher. This level can be achieved if all members of the guild complete daily tasks, the norms of which are indicated in the chat header. The rules are subject to change. Through a fraction, the minimum weekly norms are indicated, the failure of which will be the basis for exclusion</p>
 
-Good manners in the Guild
-1. Discussion of political, religious issues, insults or threats to any address in the guild chat or server chat is FORBIDDEN! Violators are excluded from the guild.
-2. Mandatory Daily Chat Reading
-3. In the Arena and the Grand Arena, we try not to attack the guildmates. We resolve conflicts in this regard in private messages.
-4. Private messages must be open to guild members
-5. The main language of communication is Russian. Or https://translate.google.com/
+<p>Donations are welcome in any size, but not required. When considering any controversial issues, the main criterion is the fulfillment of the norms for the asset and titanite</p>
 
-Guild War (GW)
-1. GW is a collective gaming event in which a lot depends on the interaction between the players.
-Therefore, those who entered the game during the GW - IMMEDIATELY look into the chat and the GW map, others may be waiting for your actions.
-2. Appoints champions and directs the battle Guild Master or appointed General
-3. Instructions are given in the guild chat. Directions in PM take precedence over chat. Obligatory destinations are indicated on the map.
-Do not attack without explicit permission in the chat!
-If two targets are specified, we attack both targets, regardless of the result of the first attack.
-If one target is indicated, we attack it and wait for the next one if there are no other instructions.
-It is FORBIDDEN to finish off on your own after an unsuccessful attack, unless the leader of the battle EXPLICITLY indicates otherwise!
-Questions and wishes - in a personal to the leader of the battle
-Keep in mind that in the chat your message may be shifted out of sight and unnoticed by the manager.
-4. If there is no explicit prohibition on this in the chat, then in case of URGENT need, an independent choice of the attack target is allowed in the following order:
-- already attacked positions.
-- positions where you are sure of victory or you can inflict maximum damage.
-- the number of captured positions in the fortification - move to where more are captured
-5. An attack of one's own will be allowed if any plan is pointless. In this case
-try to score maximum points based on your strengths and the strengths of the enemy. The choice of the target of the attack - see item 4
-6. If you plan to miss one or more days - inform the Guild Master or General for a replacement. When you return, please let us know for a return replacement.
-Skipping a battle, especially a transitional battle, is unacceptable!
-7. Sanctions for non-performance - deprivation of gifts, withdrawal from the ranks of fighters or exclusion from the Guild.
+<h2>Useful links</h2>
+<p><ol>
+<li>gifts and adventure schemes https://www.solfors.com
 
-Clash of the Worlds (CoW)
-The main differences from GW:
-- absolutely all members of the guild who put up teams on the SM participate
-- the fight starts at 06-15 Moscow time and goes on for 2 days without a break until the end of 2 days (until 05 Moscow time)
-- each hero and each titan can only be used once
-- there are fortifications with power-ups that depend on the role of the heroes or the elements of the titans
-Without explicit permission in the chat, it is FORBIDDEN to attack even on the set goals
-Discretionary attacks are PROHIBITED unless explicitly allowed in chat.
+<li>more adventure schemes http://morevokne.ru/?p=7052
 
-Asgard.
-1. The days of the week are determined by the time in the game. Game time is UTC-2 (2 hours after GMT)
-2. First phase (Monday-Thursday). We attack minions and minibosses. The goal is to win, gain maximum emblems and spirit.
-Time of blows - any. For minions, we try to exceed the power of their packs, for which you can strengthen your weak
-bundles due to strong. By minibosses, we look at their features and buy the necessary power-ups.
-If the level of the boss is comparable to the level of your own top packs, then it is recommended to defeat everyone first
-minions, buy power-ups and only then attack the minibosses.
-3. Attack on the boss (Friday-Sunday). The goal is to take down as many bosses as possible TOGETHER and deal maximum damage to EVERYONE.
-5 attempts are given for the attack, and the heroes cannot be repeated, i.e. 25 heroes required. Pet can be repeated.
-Before the attack, we form five packs of heroes and evaluate their power
-In general, tasks are distributed by day in the following way:
-Friday - DAY OF THE DISABLED. Weak heroes can gain some damage and be useful. On stronger bosses, they become useless. So USE FRIDAY for your weak heroes and let others do the same!
-We attack starting from the WEAKEST pack (not at all, but the weakest of the top 25!), observe the restrictions on the amount of damage, and follow other instructions.
-You don't know how, you don't want to, you don't know what instructions are given - SKIP FRIDAY!
-Saturday - pack strength may be limited
-Sunday - no restrictions
-Specific restrictions and guidelines for each day are announced in the chat
-Before the attack, do not forget to spend the received emblems on power-ups. Whether to buy amplifications for gold - we decide on our own.
-We add a pet to the pack at our discretion
-4. Sanctions for violating the schedule of attacks and restrictions:
-- deprivation of gifts from the Master
-- removal from the war of guilds for a week
-- exclusion from the guild
-- exclusion from the guild with blacklisting
+<li>more adventure maps https://hero-wars.fandom.com/wiki/Adventures
+</ol></p>
 
-Adventures.
-1. The goal of the adventure is to open 4 chests. After that, until the end of the game day, you can use the raid on this adventure.
-2. Use the adventure chat
-3. Senior one who went first. It determines who goes where when. It is recommended to do this explicitly in the adventure chat
-4. Do you have another goal? Check the Closed group box. There you can invite personally or not invite anyone.
-5. It is FORBIDDEN to run to the boss along the path cleared by others!
-6. Lost and spent all the moves? Exit the adventure through the Journal. Earnings will be sent to the mail
+<h2>Guild Daily Quests</h2>
+<p><ol>
+<li>In the Dungeon we reach the second save point
+<li>Recruiting 1250+ assets
+<li>The Guild War awaits the champions, and the Clash of the Worlds awaits everyone
+</ol></p>
+<p>1+2+3=0 per week - exclusion from the guild</p>
 
-Gifts from the Guild Master
-Distribution of gifts is made once a week - on Friday around 21 Moscow time.
-All gifts accumulated over the week are distributed according to the scheme - flag for activity or titanite = one gift
-See your progress here - Gifts-View
-Penalties:
-- non-fulfillment of the daily norm - minus 1 for each day of non-fulfillment
-- skipping the GW, attacking the GW or CoW without permission, violating the rules of attacking the boss in Asgard - gifts are not issued
-"Penalty" gifts are distributed at the discretion of the Guild Master
+<h2>Good manners in the Guild</h2>
+<p><ol>
+<li>Discussion of political, religious issues, insults or threats to any address in the guild chat or server chat is FORBIDDEN! Violators are expelled from the guild
+<li>Mandatory Daily Chat Reading
+<li>In the Arena and the Grand Arena, we try not to attack the guildmates. We resolve conflicts on this basis in a personal
+<li>Private messages must be open to guild members
+<li>The main language of communication is Russian. Or https://translate.google.com/
+</ol></p>
+
+<h2>Guild War (WG)</h2>
+<p><ol>
+<li>VG is a collective gaming event in which a lot depends on the interaction between the players. Therefore, I entered the game during the WG - IMMEDIATELY look into the chat and the WG map, others may be waiting for your actions.
+<li>Appoints champions and directs the battle Guild Master or appointed General
+<li>Instructions are given in the guild chat. Directions in PM take precedence over chat. Obligatory destinations are indicated on the map. Do not attack without explicit permission in the chat!
+<p>If one target is indicated, we attack it and wait for the next one if there are no other instructions.
+<p>If two targets are specified, we attack both targets, regardless of the result of the first attack.
+<p>It is FORBIDDEN to finish off on your own after an unsuccessful attack, unless the leader of the battle EXPLICITLY indicates otherwise!
+<p>Questions and wishes - in a personal to the leader of the battle Keep in mind that in the general chat your message may be shifted out of sight and unnoticed by the leader.
+<li>If there is no explicit prohibition on this in the chat, then in case of URGENT need, an independent choice of the attack target is allowed in the following order:
+<ul>
+<li>already attacked positions.
+<li>positions where you are sure of victory or you can deal maximum damage.
+<li>the number of captured positions in the fortification - move to where more are captured
+</ul>
+<li>An attack of one's own will be allowed if any plan is pointless. In this case, try to score maximum points based on your strengths and the strengths of the enemy. The choice of the target of the attack - see item 4
+<li>If you plan to miss one or more days - inform the Guild Master or General for a replacement. When you return, please let us know for a return replacement. Skipping a battle, especially a transitional battle, is unacceptable!
+<li>Sanctions for non-performance - deprivation of gifts, withdrawal from the ranks of fighters or exclusion from the Guild.
+</ol></p>
+
+<h2>Collision of Worlds (CM)</h2>
+<p>The main differences from VG:
+<ul>
+<li>absolutely all members of the guild who put up teams on the SM participate
+<li>the battle starts at 06-15 Moscow time and goes on for 3 days without a break until the end of 3 days (until 05 Moscow time)
+<li>each hero and each titan can only be used once
+<li>there are fortifications with power-ups that depend on the role of the heroes or the elements of the titans
+</ul>
+<p>Without explicit permission in the chat, it is FORBIDDEN to attack even on set targets. Attacks at your own discretion are FORBIDDEN until explicit permission to do so in the chat</p>
