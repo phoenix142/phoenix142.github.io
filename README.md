@@ -146,7 +146,7 @@
 
 <p>Phoenix Guild's current goal is to be in the Guild War Silver League or higher. This level can be achieved if all members of the guild complete daily tasks, the norms of which are indicated in the chat header. The rules are subject to change. Through a fraction, the minimum weekly norms are indicated, the failure of which will be the basis for exclusion</p>
 
-<p>Donations are welcome in any size, but not required. When considering any controversial issues, the main criterion is the fulfillment of the norms for the asset and titanite</p>
+<p>Donations are welcome in any size, but not required. When considering any controversial issues, the main criterion is the fulfillment of the norms for the activity and titanite</p>
 
 <h2>Useful links</h2>
 <p>
@@ -161,7 +161,7 @@
 <p>
 <ol>
 <li>In the Dungeon we reach the second save point</li>
-<li>Recruiting 1250+ assets</li>
+<li>Recruiting 1250+ activitiy</li>
 <li>The Guild War awaits the champions, and the Clash of the Worlds awaits everyone</li>
 </ol>
 <p><strong>1+2+3=0 per week - exclusion from the guild</strong></p>
@@ -172,7 +172,7 @@
 <ol>
 <li>Discussion of political, religious issues, insults or threats to any address in the guild chat or server chat is FORBIDDEN! Violators are expelled from the guild</li>
 <li>Mandatory Daily Chat Reading</li>
-<li>In the Arena and the Grand Arena, we try not to attack the guildmates. We resolve conflicts on this basis in a personal</li>
+<li>In the Arena and the Grand Arena, we try not to attack the guildmates. We resolve conflicts on this basis in a Private messages</li>
 <li>Private messages must be open to guild members</li>
 <li>The main language of communication is Russian. Or https://translate.google.com/</li>
 </ol>
