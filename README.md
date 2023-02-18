@@ -1,4 +1,4 @@
-<p><strong><a href="#eng">English text</a></strong></p>
+<p><strong><a href="#eng">English version</a></strong></p>
 <h1>Правила гильдии Феникс</h1>
 
 <p>Целью Гильдии Феникс на данный момент является нахождение в Серебрянной Лиге Войны Гильдий или выше.
