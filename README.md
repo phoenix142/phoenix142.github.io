@@ -1,4 +1,4 @@
-<p><strong>English text at the bottom of the page</strong></p>
+<p><strong><a href="#eng">English text</a></strong></p>
 <h1>Правила гильдии Феникс</h1>
 
 <p>Целью Гильдии Феникс на данный момент является нахождение в Серебрянной Лиге Войны Гильдий или выше.
@@ -142,7 +142,7 @@
 </p>
 
 <p>-------------------------------------------------------------------------</p>
-<h1>Phoenix Guild Rules</h1>
+<h1 id="eng">Phoenix Guild Rules</h1>
 
 <p>Phoenix Guild's current goal is to be in the Guild War Silver League or higher. This level can be achieved if all members of the guild complete daily tasks, the norms of which are indicated in the chat header. The rules are subject to change. Through a fraction, the minimum weekly norms are indicated, the failure of which will be the basis for exclusion</p>
 
