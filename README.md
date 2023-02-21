@@ -11,6 +11,7 @@
 <h2>Полезные ссылки</h2>
 <p>
 <ul>
+<li>чат в Telegram https://t.me/+tw4SgaqkI0ViZDYy
 <li>подарки и схемы приключений <u>https://www.solfors.com</u></li>
 <li>еще схемы приключений <u>http://morevokne.ru/?p=7052</u></li>
 <li>еще схемы приключений (англ) <u>https://hero-wars.fandom.com/wiki/Adventures</u></li>
